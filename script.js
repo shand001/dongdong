@@ -5,7 +5,7 @@ const question = document.getElementById('question');
 
 // 点击“可以”按钮
 yesButton.addEventListener('click', () => {
-    question.innerText = "太棒了！我也喜欢你 ❤️";
+    question.innerText = "太棒了！谢谢雯雯 ❤️";
 });
 
 // 点击“不要”按钮
